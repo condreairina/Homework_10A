@@ -13,7 +13,7 @@ System.out.printf("%6%n",s);
 System.out.printf("%7%n",a);
 System.out.printf("%8%n",g);
 System.out.printf("%9%n",j);
-
+System.out.printf("%9s%n",ch);
 
 	    }
 }
